@@ -1,0 +1,14 @@
+ Volume in drive C is OS
+ Volume Serial Number is 24CC-1098
+
+ Directory of c:\Users\11020\Desktop\Employee_Attrition_R
+
+04/06/2026  09:19 AM    <DIR>          .
+04/05/2026  09:41 PM    <DIR>          ..
+04/06/2026  09:19 AM                 0 dir_from_input.txt
+03/31/2026  09:10 PM             2,063 install_packages.R
+03/31/2026  09:10 PM             3,961 README.md
+03/31/2026  09:10 PM    <DIR>          scripts
+03/31/2026  09:10 PM    <DIR>          shiny_app
+               3 File(s)          6,024 bytes
+               4 Dir(s)  223,710,687,232 bytes free
